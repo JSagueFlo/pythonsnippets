@@ -6,6 +6,7 @@
     - [Random music alarm](#random-music-alarm)
     - [AI emotion predictor](#ai-emotion-predictor)
       - [Try to predict my emotional state based on](#try-to-predict-my-emotional-state-based-on)
+      - [Weather APIs](#weather-apis)
 
 ## TO-DO's
 
@@ -42,3 +43,15 @@ Can an AI predict my emotional state?
 - Day of the year
 - Day of the month
 - Day of the week
+
+- [https://www.w3schools.com/python/python_ml_getting_started.asp"](Python Machine Learning tutorial W3Schools)
+- [https://realpython.com/python-ai-neural-network/"](realpython.com AI example (neural network))
+
+The main idea is to get a prediction of my emotional state on certain days based on ML trained models as I suspect that there are some factors that impact my emotional state always.  
+The day of the year, the atmosphere pressure, the weather, etc.  
+The idea is to train the model "MySelf" answering the question "How do I feel today/now?"  
+Meanwhile, the app is gonna track the data for the rest of the models (WeatherModel, PressureModel, DayOfTheYearModel...) from terciary APIs.
+
+#### Weather APIs
+
+- [https://pypi.org/project/python-aemet/](Python AEMET API)

@@ -4,6 +4,8 @@
   - [TO-DO's](#to-dos)
     - [La-paradoja-de-Monty-Hall](#la-paradoja-de-monty-hall)
     - [Random music alarm](#random-music-alarm)
+    - [AI emotion predictor](#ai-emotion-predictor)
+      - [Try to predict my emotional state based on](#try-to-predict-my-emotional-state-based-on)
 
 ## TO-DO's
 
@@ -28,3 +30,15 @@ La música ens fa sentir emocions, i les emocions es relacionen directament amb 
 En dies positius, no en tenim dubte, no hi ha problema...
 
 Però en dies negatius, oblidem per complet que tenim el poder de reconduir aquests pensaments de merda, a través de les emocions, per a accionar d'una forma més positiva. Per això és interessant aquesta alarma. per a que aixi, al menys, en assegurem que les emocions són positives, cada cop que sona!
+
+### AI emotion predictor
+
+Can an AI predict my emotional state?
+
+#### Try to predict my emotional state based on
+
+- Weather (sunny, cloudy, rainy, windy...)
+- Pressure (hPa)
+- Day of the year
+- Day of the month
+- Day of the week

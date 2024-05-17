@@ -16,7 +16,7 @@ La paradoja de Monty Hall
 
 Simular La paradoja de Monty Hall, amb un projecte django publicar el projecte a Github Si pot ser amb interfície gràfica millor que millor Si no, doncs començar amb un script python i ja està
 
-[https://www.youtube.com/watch?v=1BpTBzDQuRE](Vídeo de referència on s'explica)
+[Vídeo de referència on s'explica](https://www.youtube.com/watch?v=1BpTBzDQuRE)
 
 ### Random music alarm
 
@@ -44,8 +44,8 @@ Can an AI predict my emotional state?
 - Day of the month
 - Day of the week
 
-- [https://www.w3schools.com/python/python_ml_getting_started.asp"](Python Machine Learning tutorial W3Schools)
-- [https://realpython.com/python-ai-neural-network/"](realpython.com AI example (neural network))
+- [Python Machine Learning tutorial W3Schools](https://www.w3schools.com/python/python_ml_getting_started.asp)
+- [realpython.com AI example (neural network)](https://realpython.com/python-ai-neural-network/)
 
 The main idea is to get a prediction of my emotional state on certain days based on ML trained models as I suspect that there are some factors that impact my emotional state always.  
 The day of the year, the atmosphere pressure, the weather, etc.  
@@ -54,4 +54,4 @@ Meanwhile, the app is gonna track the data for the rest of the models (WeatherMo
 
 #### Weather APIs
 
-- [https://pypi.org/project/python-aemet/](Python AEMET API)
+- [Python AEMET API](https://pypi.org/project/python-aemet/)
